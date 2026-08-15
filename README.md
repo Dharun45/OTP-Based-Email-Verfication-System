@@ -63,7 +63,10 @@ src/main/java/com/dharun/otp_verification/
 ```
  
 ## 🔌 API Endpoints
- 
+   Use Postman Desktop App 
+1. Go to https://www.postman.com/downloads/
+2. Download for Windows
+3.Install and sign in with your account
 ### 1. Register User
 ```
 POST /users/register
