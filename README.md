@@ -176,7 +176,7 @@ POST /users/resend-otp?email=dharun@example.com
    - Send `POST /users/register` with a valid email
    - Check inbox for OTP
    - Send `POST /users/verify-otp` with the received OTP
-## ✅ Sample Test Flow
+## Sample Test Flow
  
 ```
 1. POST /users/register  → "OTP sent to your email"
@@ -184,3 +184,6 @@ POST /users/resend-otp?email=dharun@example.com
 3. POST /users/verify-otp → "Email verified successfully"
 4. SELECT * FROM users;   → is_verified = 1, otp = NULL
 ```
+## Testimonal
+<img width="1612" height="881" alt="image" src="https://github.com/user-attachments/assets/30ac85be-cb89-45a2-a413-8ee92e195554" />
+
