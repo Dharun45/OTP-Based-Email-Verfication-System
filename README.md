@@ -185,5 +185,7 @@ POST /users/resend-otp?email=dharun@example.com
 4. SELECT * FROM users;   → is_verified = 1, otp = NULL
 ```
 ## Testimonal
+<img width="1639" height="566" alt="image" src="https://github.com/user-attachments/assets/c57060d3-8a44-4423-9d84-eb9fcb5f57ac" />
+
 <img width="1612" height="881" alt="image" src="https://github.com/user-attachments/assets/30ac85be-cb89-45a2-a413-8ee92e195554" />
 
