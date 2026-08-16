@@ -18,7 +18,7 @@ This is an **OTP-based Email Verification System** — a backend flow where a us
  
 | Category | Technology |
 |---|---|
-| Language | Java 17 |
+| Language | Java 17+ is Needed |
 | Framework | Spring Boot |
 | Data Layer | Spring Data JPA |
 | Database | MySQL |
