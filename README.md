@@ -93,7 +93,7 @@ Content-Type: application/json
 **Request Body:**
 ```json
 {
-  "email": "dharun@example.com",
+  "email": "recivermail@gmail.com",
   "otp": "123456"
 }
 ```
