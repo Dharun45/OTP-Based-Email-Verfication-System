@@ -1,5 +1,6 @@
 # OTP-Based-Email-Verfication-System
-This is an OTP-based Email Verification System which contains backend flow where a user registers, the server generates a random 6-digit code, emails it to them, temporarily stores it with an expiry time, and verifies it when the user submits it back. It combines Spring Boot + Spring Data JPA (MySQL) + Spring Mail + REST APIs.
+This is an OTP-based Email Verification System which contains backend flow where a user registers, the server generates a random 6-digit code, emails it to them, temporarily stores it with an expiry time, and verifies it when the user submits it back. Implemented email-based OTP verification using LocalDateTime to validate code correctness and expiry, updating user status upon confirmation. Secured user credentials with BCrypt password hashing and automatic salting for irreversible storage.
+It combines Spring Boot + Spring Data JPA (MySQL) + Spring Mail + REST APIs.
 
 ## 📌 Overview
  
