@@ -77,7 +77,7 @@ Content-Type: application/json
 ```json
 {
   "name": "Dharun",
-  "email": "receivermailid@gmail.com",
+  "email": "receivermail@gmail.com",
   "password": "test123"
 }
 ```
@@ -94,7 +94,7 @@ Content-Type: application/json
 **Request Body:**
 ```json
 {
-  "email": "recivermail@gmail.com",
+  "email": "receivermail@gmail.com",
   "otp": "123456"
 }
 ```
