@@ -11,7 +11,7 @@ This is an **OTP-based Email Verification System** — a backend flow where a us
 1. User registers with basic details (name, email, password)
 2. Spring Boot generates a random 6-digit OTP
 3. OTP is sent to the registered email address
-4. OTP and its 5-minute expiry time are stored in 'MySQl'
+4. OTP and its 5-minute expiry time are stored in `MySQL`
 5. User submits the OTP for verification
 6. Backend validates the OTP against the stored value and checks expiry
 7. On success, the user's verification status is updated to `verified`
